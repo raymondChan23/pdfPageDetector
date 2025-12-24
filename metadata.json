@@ -1,0 +1,5 @@
+{
+  "name": "PDF Insight & Summary Pro",
+  "description": "A desktop-grade tool to download PDFs from links, count pages, and generate AI summaries with Excel export capability.",
+  "requestFramePermissions": []
+}
