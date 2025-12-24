@@ -141,7 +141,7 @@ const App: React.FC = () => {
               </div>
               <h1 className="text-3xl font-bold tracking-tight text-slate-900">PDF Page Counter</h1>
             </div>
-            <p className="text-slate-500 text-lg">Batch process thousands of PDFs from Excel or text links.</p>
+            <p className="text-slate-500 text-lg">Test_Batch process thousands of PDFs from Excel or text links.</p>
           </div>
           
           <div className="flex flex-wrap gap-3">
